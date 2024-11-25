@@ -1,0 +1,13 @@
+Model,Oversampling Method,Accuracy Score
+adaboost,no_oversampling,0.9941774227962252
+adaboost,smote,0.9402009753138151
+adaboost,adasyn,0.9669719770798683
+random_forest,no_oversampling,0.9942108415616332
+random_forest,smote,0.9840849556430156
+random_forest,adasyn,0.9976683984442279
+decision_tree,no_oversampling,0.9941388626822929
+decision_tree,smote,0.9825991059194916
+decision_tree,adasyn,0.996622134019532
+logistic_regression,no_oversampling,0.9941260093109822
+logistic_regression,smote,0.8718493173574496
+logistic_regression,adasyn,0.8880034344208142

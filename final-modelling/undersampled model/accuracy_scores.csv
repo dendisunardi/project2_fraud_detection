@@ -1,0 +1,9 @@
+Model,Oversampling Method,Accuracy Score
+adaboost,random,0.9784834564257859
+adaboost,cluster_centroids,0.006953673879121755
+random_forest,random,0.9823626038873736
+random_forest,cluster_centroids,0.006616915550779814
+decision_tree,random,0.9834242923576425
+decision_tree,cluster_centroids,0.019665658105464483
+logistic_regression,random,0.7804130045269574
+logistic_regression,cluster_centroids,0.006275015873913569
